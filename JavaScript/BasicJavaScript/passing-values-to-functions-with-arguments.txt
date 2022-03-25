@@ -1,0 +1,4 @@
+function functionWithArgs(argum1, argum2){
+ console.log( argum1 + argum2 );
+}
+functionWithArgs(2,3);
