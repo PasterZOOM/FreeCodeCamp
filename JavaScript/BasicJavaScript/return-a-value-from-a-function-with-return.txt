@@ -1,0 +1,3 @@
+function timesFive(vel){
+  return vel *=5;
+}
