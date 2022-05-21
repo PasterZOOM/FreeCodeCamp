@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37876c68-3221-4f78-993a-4523afdcd155" name="Changes" comment="18.04.2022" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27ClhjDQJcODFTngB6u71RyB9hc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codewars" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37876c68-3221-4f78-993a-4523afdcd155" name="Changes" comment="" />
+      <created>1648832069827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648832069827</updated>
+      <workItem from="1648832070937" duration="47000" />
+      <workItem from="1648832118684" duration="640000" />
+      <workItem from="1648891257837" duration="13000" />
+      <workItem from="1649621159171" duration="614000" />
+      <workItem from="1649673746220" duration="610000" />
+      <workItem from="1650145723793" duration="354000" />
+      <workItem from="1650228765871" duration="102000" />
+      <workItem from="1650269875251" duration="112000" />
+      <workItem from="1651159100049" duration="358000" />
+      <workItem from="1651159477892" duration="257000" />
+      <workItem from="1651159738815" duration="634000" />
+      <workItem from="1652445496534" duration="414000" />
+    </task>
+    <task id="LOCAL-00001" summary="01.04.2022">
+      <created>1648832148557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648832148557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="10.04.2022">
+      <created>1649621171929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649621171929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="17.04.2022">
+      <created>1650145734427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650145734427</updated>
+    </task>
+    <task id="LOCAL-00004" summary="18.04.2022">
+      <created>1650228780126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650228780126</updated>
+    </task>
+    <task id="LOCAL-00005" summary="18.04.2022">
+      <created>1651159588434</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651159588434</updated>
+    </task>
+    <task id="LOCAL-00006" summary="18.04.2022">
+      <created>1652445517459</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652445517459</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01.04.2022" />
+    <MESSAGE value="10.04.2022" />
+    <MESSAGE value="17.04.2022" />
+    <MESSAGE value="18.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="18.04.2022" />
+  </component>
+</project>
