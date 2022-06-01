@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37876c68-3221-4f78-993a-4523afdcd155" name="Changes" comment="22.05.2022">
+    <list default="true" id="37876c68-3221-4f78-993a-4523afdcd155" name="Changes" comment="31.05.2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IT-inkubator/Lessons/react-kabzda-kak-prosto" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -75,7 +75,8 @@
       <workItem from="1652445496534" duration="414000" />
       <workItem from="1653168561730" duration="333000" />
       <workItem from="1653938291714" duration="619000" />
-      <workItem from="1653939098395" duration="635000" />
+      <workItem from="1653939098395" duration="1358000" />
+      <workItem from="1653947946680" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="01.04.2022">
       <created>1648832148557</created>
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653168584178</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="31.05.2022">
+      <created>1653945810778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653945810778</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +157,7 @@
     <MESSAGE value="17.04.2022" />
     <MESSAGE value="18.04.2022" />
     <MESSAGE value="22.05.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="22.05.2022" />
+    <MESSAGE value="31.05.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="31.05.2022" />
   </component>
 </project>
