@@ -1,0 +1,5 @@
+function getIndexToIns(arr, num) {
+    return [...arr, num].sort((a, b) => a < b ? -1 : +1).indexOf(num)
+}
+
+getIndexToIns([40, 60], 50);
